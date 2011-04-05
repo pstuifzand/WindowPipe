@@ -1,0 +1,13 @@
+WindowPipe
+==========
+
+Creates a window for a command. Drop stuff on the window. Runs a script on the
+dropped item.
+
+
+
+Author
+------
+
+Peter Stuifzand <peter@stuifzand.eu>
+
